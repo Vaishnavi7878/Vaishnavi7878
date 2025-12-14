@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Vaishnavi Sharma
 
 ## 📊 Aspiring Data Analyst | Data Analytics & Business Intelligence
-
-I am a **B.Com graduate** currently pursuing a **Diploma in Data Science**, with strong interest in turning raw data into meaningful business insights. I enjoy working with **data cleaning, analysis, visualization, and reporting**, and I am actively preparing for **Data Analyst / Reporting Analyst roles**.
+I am a B.Com graduate who has successfully completed a Data Science course, with strong interest in turning raw data into meaningful business insights. I enjoy working with data cleaning, analysis, visualization, and reporting, and I am actively preparing for Data Analyst / Reporting Analyst roles.
 
 ---
 
